@@ -1,0 +1,35 @@
+body {
+  background-size: 100%;
+  background: black;
+}
+.card {
+  width: 560px;
+  height: 314px;
+  background-color: rgb(211, 198, 198);
+  margin-top: 220px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.avatarMes {
+  height: 30px;
+  width: 30px;
+  vertical-align: middle;
+}
+.avatarCL {
+  height: 30px;
+  width: 30px;
+  vertical-align: middle;
+}
+.dribble {
+  background: rgb(10, 1, 1);
+  color: rgb(241, 239, 239);
+  height: 24px;
+  width: 74px;
+  text-align: center;
+}
+.dribblebox {
+  margin: auto;
+}
+.line {
+  width: 80%;
+}
